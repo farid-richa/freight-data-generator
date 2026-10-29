@@ -1,0 +1,31 @@
+carrier_id,carrier_name,mode,country_iso3,payment_terms_days
+R01,Levante Express SL,Road,ESP,30
+R02,Meseta Haulage SA,Road,ESP,60
+R03,Norte Cargo GmbH,Road,DEU,45
+R04,Costa Freight BV,Road,NLD,30
+R05,Rio Transportes Lda,Road,PRT,45
+R06,Alpine Road AG,Road,CHE,60
+R07,Vistula Trans Sp. z o.o.,Road,POL,30
+R08,Rhone Routiers SAS,Road,FRA,45
+R09,Po Valley Trasporti Srl,Road,ITA,60
+R10,Hanse Road GmbH,Road,DEU,30
+R11,Polder Transport BV,Road,NLD,45
+R12,Nordic Linehaul AB,Road,SWE,30
+R13,Atlas Iberia Transportes SL,Road,ESP,75
+R14,Northstar Freight GmbH,Road,DEU,60
+R15,Celtic Haulage Ltd,Road,GBR,30
+R16,Tajo Logistica SL,Road,ESP,45
+O01,Bluewave Container Line,Ocean,SGP,30
+O02,Meridian Ocean Shipping,Ocean,CHN,45
+O03,Pacific Crest Lines,Ocean,CHN,30
+O04,Atlantica Maritime,Ocean,ESP,60
+O05,Coral Sea Carriers,Ocean,SGP,45
+O06,Northstar Ocean Forwarding,Ocean,DEU,60
+O07,Harbor Bridge Shipping,Ocean,USA,30
+A01,Skyline Air Cargo,Air,USA,30
+A02,Aerolink Freight,Air,NLD,45
+A03,Polaris Air Logistics,Air,FIN,30
+A04,Swift Wings Cargo,Air,HKG,45
+A05,Northstar Air Express,Air,DEU,60
+A06,Cirrus Air Freight,Air,GBR,30
+A07,Altitude Cargo Partners,Air,USA,45

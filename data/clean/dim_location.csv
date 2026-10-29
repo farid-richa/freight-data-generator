@@ -1,0 +1,45 @@
+location_code,location_name,location_type,country_iso2,country_iso3,country,region,eu_member,latitude,longitude
+VLC,Valencia,City,ES,ESP,Spain,Europe,Y,39.47,-0.38
+MAD-C,Madrid,City,ES,ESP,Spain,Europe,Y,40.42,-3.7
+BCN-C,Barcelona,City,ES,ESP,Spain,Europe,Y,41.39,2.17
+ZAZ,Zaragoza,City,ES,ESP,Spain,Europe,Y,41.65,-0.89
+LIS,Lisbon,City,PT,PRT,Portugal,Europe,Y,38.72,-9.14
+LYS,Lyon,City,FR,FRA,France,Europe,Y,45.76,4.84
+PAR,Paris,City,FR,FRA,France,Europe,Y,48.86,2.35
+MIL,Milan,City,IT,ITA,Italy,Europe,Y,45.46,9.19
+MUC,Munich,City,DE,DEU,Germany,Europe,Y,48.14,11.58
+FRA-C,Frankfurt,City,DE,DEU,Germany,Europe,Y,50.11,8.68
+HAM-C,Hamburg,City,DE,DEU,Germany,Europe,Y,53.55,9.99
+DUI,Duisburg,City,DE,DEU,Germany,Europe,Y,51.43,6.76
+RTM-C,Rotterdam,City,NL,NLD,Netherlands,Europe,Y,51.92,4.48
+ANR-C,Antwerp,City,BE,BEL,Belgium,Europe,Y,51.22,4.4
+WAW,Warsaw,City,PL,POL,Poland,Europe,Y,52.23,21.01
+BSL,Basel,City,CH,CHE,Switzerland,Europe,N,47.56,7.59
+VIE,Vienna,City,AT,AUT,Austria,Europe,Y,48.21,16.37
+HEL-C,Helsinki,City,FI,FIN,Finland,Europe,Y,60.17,24.94
+STO,Stockholm,City,SE,SWE,Sweden,Europe,Y,59.33,18.07
+BHX,Birmingham,City,GB,GBR,United Kingdom,Europe,N,52.49,-1.89
+CNSHA,Shanghai,Port,CN,CHN,China,Asia,N,31.23,121.47
+CNNGB,Ningbo,Port,CN,CHN,China,Asia,N,29.87,121.54
+SGSIN,Singapore,Port,SG,SGP,Singapore,Asia,N,1.29,103.85
+INNSA,Nhava Sheva,Port,IN,IND,India,Asia,N,18.95,72.95
+USNYC,New York,Port,US,USA,United States,North America,N,40.68,-74.04
+BRSSZ,Santos,Port,BR,BRA,Brazil,South America,N,-23.96,-46.33
+ESVLC,Valencia,Port,ES,ESP,Spain,Europe,Y,39.45,-0.32
+NLRTM,Rotterdam,Port,NL,NLD,Netherlands,Europe,Y,51.95,4.14
+DEHAM,Hamburg,Port,DE,DEU,Germany,Europe,Y,53.54,9.97
+BEANR,Antwerp,Port,BE,BEL,Belgium,Europe,Y,51.26,4.4
+ITGOA,Genoa,Port,IT,ITA,Italy,Europe,Y,44.41,8.93
+PVG,Shanghai Pudong,Airport,CN,CHN,China,Asia,N,31.14,121.81
+HKG,Hong Kong,Airport,HK,HKG,Hong Kong,Asia,N,22.31,113.92
+BOM,Mumbai,Airport,IN,IND,India,Asia,N,19.09,72.87
+NRT,Tokyo Narita,Airport,JP,JPN,Japan,Asia,N,35.77,140.39
+ORD,Chicago O'Hare,Airport,US,USA,United States,North America,N,41.97,-87.91
+JFK,New York JFK,Airport,US,USA,United States,North America,N,40.64,-73.78
+GRU,Sao Paulo Guarulhos,Airport,BR,BRA,Brazil,South America,N,-23.43,-46.47
+MAD,Madrid Barajas,Airport,ES,ESP,Spain,Europe,Y,40.49,-3.57
+BCN,Barcelona El Prat,Airport,ES,ESP,Spain,Europe,Y,41.3,2.08
+FRA,Frankfurt,Airport,DE,DEU,Germany,Europe,Y,50.04,8.56
+AMS,Amsterdam Schiphol,Airport,NL,NLD,Netherlands,Europe,Y,52.31,4.76
+HEL,Helsinki Vantaa,Airport,FI,FIN,Finland,Europe,Y,60.32,24.96
+ZRH,Zurich,Airport,CH,CHE,Switzerland,Europe,N,47.46,8.55
